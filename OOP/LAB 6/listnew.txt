@@ -1,0 +1,26 @@
+List of class Shape, size 25: 
+class Rect: left bottom: x = 5, y = 3, right top: x = 5, y = 6, color: Red, square: 0.00
+class Rect: left bottom: x = 9, y = 1, right top: x = 9, y = 9, color: Red, square: 0.00
+class Rect: left bottom: x = 8, y = 6, right top: x = 8, y = 6, color: White, square: 0.00
+class Rect: left bottom: x = 7, y = 3, right top: x = 9, y = 4, color: White, square: 2.00
+class Rect: left bottom: x = 2, y = 4, right top: x = 3, y = 7, color: Red, square: 3.00
+class Circle: center: x = 0, y = 8, radius = 1, color: Red, square: 3.14
+class Rect: left bottom: x = 1, y = 2, right top: x = 5, y = 3, color: Red, square: 4.00
+class Rect: left bottom: x = 6, y = 7, right top: x = 9, y = 9, color: Black, square: 6.00
+class Rect: left bottom: x = 3, y = 6, right top: x = 7, y = 8, color: Red, square: 8.00
+class Rect: left bottom: x = 0, y = 2, right top: x = 5, y = 4, color: Red, square: 10.00
+class Circle: center: x = 1, y = 7, radius = 2, color: Red, square: 12.57
+class Circle: center: x = 9, y = 3, radius = 2, color: Red, square: 12.57
+class Rect: left bottom: x = 0, y = 5, right top: x = 5, y = 8, color: Black, square: 15.00
+class Rect: left bottom: x = 3, y = 2, right top: x = 7, y = 6, color: Black, square: 16.00
+class Circle: center: x = 2, y = 1, radius = 3, color: Black, square: 28.27
+class Circle: center: x = 4, y = 7, radius = 3, color: Black, square: 28.27
+class Rect: left bottom: x = 3, y = 0, right top: x = 9, y = 5, color: Black, square: 30.00
+class Rect: left bottom: x = 0, y = 0, right top: x = 8, y = 6, color: White, square: 48.00
+class Rect: left bottom: x = 1, y = 0, right top: x = 8, y = 7, color: Red, square: 49.00
+class Circle: center: x = 5, y = 3, radius = 4, color: Black, square: 50.27
+class Rect: left bottom: x = 0, y = 0, right top: x = 6, y = 9, color: White, square: 54.00
+class Circle: center: x = 1, y = 0, radius = 5, color: Red, square: 78.54
+class Circle: center: x = 0, y = 2, radius = 5, color: Red, square: 78.54
+class Circle: center: x = 8, y = 8, radius = 7, color: Red, square: 153.94
+class Circle: center: x = 5, y = 7, radius = 9, color: Red, square: 254.47

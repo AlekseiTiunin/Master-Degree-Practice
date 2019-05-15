@@ -1,0 +1,20 @@
+Circe: x = 0, y = 1, radius = 4, color: Black, square: 50.2655
+Rect: left bottom: x = 3, y = 2, right top: x = 3, y = 3, color: Black, square: 0
+Circe: x = 1, y = 4, radius = 6, color: White, square: 113.097
+Circe: x = 1, y = 1, radius = 9, color: White, square: 254.469
+Circe: x = 0, y = 4, radius = 6, color: Black, square: 113.097
+Rect: left bottom: x = 2, y = 0, right top: x = 9, y = 2, color: Red, square: 14
+Rect: left bottom: x = 2, y = 7, right top: x = 6, y = 8, color: Red, square: 4
+Circe: x = 9, y = 8, radius = 9, color: White, square: 254.469
+Circe: x = 4, y = 2, radius = 7, color: Red, square: 153.938
+Rect: left bottom: x = 1, y = 2, right top: x = 2, y = 2, color: Red, square: 0
+Rect: left bottom: x = 1, y = 5, right top: x = 9, y = 9, color: Red, square: 32
+Circe: x = 6, y = 8, radius = 6, color: White, square: 113.097
+Rect: left bottom: x = 3, y = 6, right top: x = 8, y = 6, color: White, square: 0
+Circe: x = 2, y = 7, radius = 0, color: White, square: 0
+Circe: x = 1, y = 8, radius = 4, color: Red, square: 50.2655
+Rect: left bottom: x = 5, y = 2, right top: x = 7, y = 3, color: Red, square: 2
+Rect: left bottom: x = 1, y = 6, right top: x = 9, y = 8, color: White, square: 16
+Rect: left bottom: x = 3, y = 4, right top: x = 4, y = 6, color: Black, square: 2
+Circe: x = 9, y = 3, radius = 3, color: Red, square: 28.2743
+Rect: left bottom: x = 7, y = 6, right top: x = 9, y = 7, color: Black, square: 2
